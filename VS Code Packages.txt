@@ -1,0 +1,9 @@
+VS Code Packages:
+=================
+
+ - Beautify
+ - Git History
+ - Terraform
+ - Terraform Autocomplete
+ - Trailing spaces
+ - vscode icons
